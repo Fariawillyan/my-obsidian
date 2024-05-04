@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "15bf6e1cda985827",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40b0420414bfb3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f76fe8c8169c2e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arquitetura limpa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eea62519bca87c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05d9217295d9130c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agregacão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ac665a4cadf4402",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d70bac434a5bbac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63b900e2cc33dc04",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2eb0d6abfdfe953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a5619a3acddddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8139d00e961cdff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f31de3b0cada9cf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f695ead6c666baa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c70ff8c5891c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde30ce40f29a366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "arquitetura limpa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd24203bfe217e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "arquitetura limpa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a0b8fab2f079afc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bb899b9c4e19688",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "arquitetura limpa.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f76fe8c8169c2e07",
+  "lastOpenFiles": [
+    "my-obsidian/README.md",
+    "my-obsidian",
+    "agregacão.md",
+    "Cérebro do Faria.md",
+    "Composição.md",
+    "POO.md",
+    "maven.md",
+    "java.md",
+    "Curiosidades.md",
+    "padrões.md",
+    "Linux.md",
+    "código limpo.md",
+    "básicos de linux.md",
+    "arquitetura limpa.md",
+    "Sem título.canvas",
+    "Git.md"
+  ]
+}

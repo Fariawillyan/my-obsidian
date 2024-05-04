@@ -1,0 +1,1 @@
+- 70% do desenvolvedor irá manter códigos e dar manutenção do que criar códigos.
