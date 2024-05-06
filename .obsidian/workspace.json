@@ -8,56 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f76fe8c8169c2e07",
+            "id": "d251b6f3d3083bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arquitetura limpa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eea62519bca87c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05d9217295d9130c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agregacão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac665a4cadf4402",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d70bac434a5bbac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composição.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f695ead6c666baa9",
@@ -129,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arquitetura limpa.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arquitetura limpa.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arquitetura limpa.md"
+                "file": "Main.md"
               }
             }
           }
@@ -191,23 +148,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f76fe8c8169c2e07",
+  "active": "d251b6f3d3083bea",
   "lastOpenFiles": [
+    "java.md",
+    "Main.md",
+    "Linux.md",
+    "Git.md",
+    "OCP.md",
+    "Strategy.md",
+    "D.Patterns.md",
+    "padrões.md",
+    "Solid.md",
+    "Princípio aberto/OCP.md",
+    "Sem título.canvas",
+    "agregacão.md",
+    "4.md",
+    "Curiosidades.md",
+    "Princípio aberto",
+    "maven.md",
+    "código limpo.md",
+    "arquitetura limpa.md",
     "my-obsidian/README.md",
     "my-obsidian",
-    "agregacão.md",
-    "Cérebro do Faria.md",
     "Composição.md",
     "POO.md",
-    "maven.md",
-    "java.md",
-    "Curiosidades.md",
-    "padrões.md",
-    "Linux.md",
-    "código limpo.md",
-    "básicos de linux.md",
-    "arquitetura limpa.md",
-    "Sem título.canvas",
-    "Git.md"
+    "básicos de linux.md"
   ]
 }

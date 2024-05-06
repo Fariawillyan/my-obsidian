@@ -1,0 +1,1 @@
+- Principio Aberto/Fechado, [[OCP]].
