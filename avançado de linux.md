@@ -1,0 +1,1 @@
+**ldd nome | grep -ia 'ola'** -> Esse comando lista as dependências dinâmicas de um executável ou biblioteca compartilhada chamada "ola".

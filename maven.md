@@ -1,0 +1,2 @@
+- Quando os comandos do maven são rodados no intellij ele pega a versão do java setado na IDE.
+-  Quando os camandos rodados no terminal do intellij ele pega a versão do java do ambiente.

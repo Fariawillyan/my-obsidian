@@ -2,8 +2,7 @@ Aqui está incluído todos os comandos, fundamentos, pontos importantes de livro
 
 Tecnologia,[[Tecnologia]]
 Cloud, [[Cloud]].
-Código Limpo, [[código limpo]].
-Padrões , [[padrões]].
-Arquitetura Limpa, [[arquitetura limpa]].
+Padrões e Arquitetura , [[Padrões e Arquitetura]].
 Comandos Linux, [[Linux]].
 Comandos Git, [[Git]].
+Curiosidades, [[Curiosidades]]
